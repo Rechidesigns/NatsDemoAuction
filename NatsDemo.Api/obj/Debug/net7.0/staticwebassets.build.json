@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bsspNg5bN6v9492JUAiak3grS9xMrXdwXaFJrAnoJuo=",
+  "Source": "NatsDemo.Api",
+  "BasePath": "_content/NatsDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
